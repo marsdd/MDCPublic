@@ -19,7 +19,7 @@ cd COVID19_Essential_Workplaces/
 
 ## Usage Notes
 
-* A given Essential Workplace may be mapped to multiple industry groups.
+* There are several cases where a given Essential Workplace is mapped to multiple industry groups.
 * The ‘entirely_essential’ column indicates whether all industries under a 4-digit industry group are considered essential workplaces (which is the case when entirely_essential = 1), or whether only some  industries under the industry group are considered essential workplaces (which is the case when entirely_essential = 0).
 
 ## Contributing
@@ -34,14 +34,6 @@ To contribute to this project, follow these steps:
 
 Alternatively, see the GitHub documentation on creating a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 <br />   
-
-## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* 
-*
-<br />  
 
 ## Related Links
 
