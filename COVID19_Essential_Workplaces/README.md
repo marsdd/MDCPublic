@@ -10,7 +10,7 @@ MaRS Data Catalyst is providing this crosswalk free of charge as a resource for 
 
 ## Getting started
 
-To access the data, simply close the repository to you machine and access the data table directly:
+To access the data, simply clone the repository to your machine and access the data table directly:
 
 ```
 git clone https://github.com/MDCPublic/COVID19_Essential_Workplaces.git
@@ -38,6 +38,7 @@ Alternatively, see the GitHub documentation on creating a [pull request](https:/
 ## Contributors
 
 Thanks to the following people who have contributed to this project:
+
 * 
 *
 <br />  
