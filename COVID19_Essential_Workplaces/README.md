@@ -22,9 +22,6 @@ cd COVID19_Essential_Workplaces/
 * There are several cases where a given Essential Workplace is mapped to multiple industry groups.
 * The ‘entirely_essential’ column indicates whether all industries under a 4-digit industry group are considered essential workplaces (which is the case when entirely_essential = 1), or whether only some  industries under the industry group are considered essential workplaces (which is the case when entirely_essential = 0).
 
-## Contributors
-*
-
 ## Contributing
 
 To contribute to this project, follow these steps:
